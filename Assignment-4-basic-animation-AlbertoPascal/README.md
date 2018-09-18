@@ -1,3 +1,4 @@
+Tried to include all of the required files. Organized in folders. Assignment-4-basic-animation-AlbertoPascal includes the scripts while the other folders include the css, models and images as well as libraries. 
 # A3 Basic Animation
 
 Assignment No 4 for the computer graphics course. 
